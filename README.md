@@ -1,7 +1,9 @@
 springboot-angularjs-demo
 =========================
 
-This code is an example of how to step by step develop an application with Spring Boot and AngularJS. It includes:
+This code is an example of how to step by step develop an application with Spring Boot and AngularJS. 
+
+It includes:
 
  0. Start a project (Maven & Spring Boot)
  1. Develop the business (Spring Core, JUnit)
@@ -15,4 +17,3 @@ This code is an example of how to step by step develop an application with Sprin
  9. Deploy the application ('fat' JAR file, WAR file)
 
 You can find the presentation slide for this code at http://www.slideshare.net/Soddino/developing-an-application-with-spring-boot-34661781
-
