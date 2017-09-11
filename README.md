@@ -2,6 +2,7 @@ springboot-angularjs-demo
 =========================
 
 This code is an example of how to step by step develop an application with Spring Boot and AngularJS. It includes:
+
  0. Start a project (Maven & Spring Boot)
  1. Develop the business (Spring Core, JUnit)
  2. Persist data (Spring Data JPA, Hibernate)
